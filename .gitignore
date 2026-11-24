@@ -1,0 +1,4 @@
+/target
+.kaye/
+.agents/plugins/kaye/
+.cargo/
